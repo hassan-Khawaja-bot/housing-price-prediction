@@ -6,12 +6,6 @@ env/
 __pycache__/
 *.pyc
 
-# Model files (optional if large)
-model/*.pkl
-
 # OS files
 .DS_Store
 Thumbs.db
-
-# Streamlit
-.streamlit/
